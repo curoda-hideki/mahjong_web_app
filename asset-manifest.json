@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.bdf730fa.js",
-    "static/js/787.a4b45000.chunk.js": "/static/js/787.a4b45000.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.bdf730fa.js.map": "/static/js/main.bdf730fa.js.map",
-    "787.a4b45000.chunk.js.map": "/static/js/787.a4b45000.chunk.js.map"
+    "main.css": "/https://github.com/curoda-hideki/mahjong_web_app/static/css/main.e6c13ad2.css",
+    "main.js": "/https://github.com/curoda-hideki/mahjong_web_app/static/js/main.f4c2b0f7.js",
+    "static/js/787.a4b45000.chunk.js": "/https://github.com/curoda-hideki/mahjong_web_app/static/js/787.a4b45000.chunk.js",
+    "index.html": "/https://github.com/curoda-hideki/mahjong_web_app/index.html",
+    "main.e6c13ad2.css.map": "/https://github.com/curoda-hideki/mahjong_web_app/static/css/main.e6c13ad2.css.map",
+    "main.f4c2b0f7.js.map": "/https://github.com/curoda-hideki/mahjong_web_app/static/js/main.f4c2b0f7.js.map",
+    "787.a4b45000.chunk.js.map": "/https://github.com/curoda-hideki/mahjong_web_app/static/js/787.a4b45000.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.bdf730fa.js"
+    "static/js/main.f4c2b0f7.js"
   ]
 }
